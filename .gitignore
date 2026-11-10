@@ -1,0 +1,4 @@
+.build/
+.checks/
+node_modules/
+*.log
